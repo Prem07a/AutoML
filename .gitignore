@@ -2,3 +2,9 @@
 .env
 src/__pycache__
 test.py
+*/exports
+main.ipynb
+cache
+exports
+pandasai.log
+*/*/models/*.joblib

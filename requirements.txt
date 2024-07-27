@@ -1,3 +1,25 @@
-streamlit_option_menu
+# Application
 streamlit
-pandasai    
+llama-index-llms-openai
+python-dotenv
+pandasai
+
+# Data manipulation
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Statistics
+scipy
+
+# Plotting
+matplotlib
+seaborn
+
+# For running the code
+joblib
