@@ -88,8 +88,8 @@ joblib
    Start by cloning your Git repository to your local machine:
 
    ```bash
-   git clone https://github.com/Prem07a/AUTOML.git
-   cd AUTOML
+   git clone https://github.com/Prem07a/AutoML.git
+   cd AutoML
    ```
 
 #### **2. Create and Activate a Virtual Environment**
