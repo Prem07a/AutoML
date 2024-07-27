@@ -35,6 +35,7 @@ src/
 │
 ├── .env
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
