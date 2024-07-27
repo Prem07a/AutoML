@@ -119,7 +119,7 @@ joblib
 
    This command installs all the dependencies required for your project.
 
-   *Note: If you encounter issues installing `pandasai`, ensure that you are using Python 3.11.9 or later.*
+   *Note: If you encounter issues installing `pandasai`, try using Python 3.11.9*
 
 #### **4. Run Your Streamlit App**
 
