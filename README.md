@@ -160,3 +160,8 @@ Here are some screenshots of the different pages in the application:
 
 ![Open Project](images/openProject.png)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+#### Copyright (c) 2024 Prem Gaikwad
