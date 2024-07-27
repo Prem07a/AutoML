@@ -1,4 +1,6 @@
-![Open Project](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="Logo" style="width:500px;">
+</p>
 
 ## Project Documentation
 
